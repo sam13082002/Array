@@ -6,4 +6,4 @@ let sum = 0;
 for (let i = 0; i < b.length; i++) {
   sum = sum + b[i];
 }
-console.log(sum / 4);
+console.log(sum / b.length);
